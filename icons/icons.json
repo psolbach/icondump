@@ -1,0 +1,25 @@
+{
+  "nytimes.com": {
+    "canonical_url": "nytimes.com",
+    "content_type": "image/png",
+    "src": "/v1457622584/nyt-291_cje9qh.png",
+    "w": 291,
+    "h": 291
+  },
+
+  "theverge.com": {
+    "canonical_url": "theverge.com",
+    "content_type": "image/jpeg",
+    "src": "/v1457626198/theverge-512_lo7wzv.jpg",
+    "w": 512,
+    "h": 512
+  },
+  
+  "theguardian.com": {
+    "canonical_url": "theguardian.com",
+    "content_type": "image/png",
+    "src": "/v1457626485/guardian-512_qwtyel.png",
+    "w": 512,
+    "h": 512
+  }
+}
