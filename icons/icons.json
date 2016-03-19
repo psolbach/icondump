@@ -175,11 +175,19 @@
     "h": 400
   },
   
-  "npr.org.com": {
+  "npr.org": {
     "canonical_url": "npr.org",
     "content_type": "image/png",
     "src": "icons/res/npr.org.png",
     "w": 512,
     "h": 512
+  },
+  
+  "cbsnews.com": {
+    "canonical_url": "cbsnews.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/cbsnews.com.jpg",
+    "w": 270,
+    "h": 270
   }
 }
