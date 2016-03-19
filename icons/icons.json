@@ -181,5 +181,13 @@
     "src": "icons/res/npr.org.png",
     "w": 512,
     "h": 512
+  },
+  
+  "cbsnews.com": {
+    "canonical_url": "cbsnews.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/cbsnews.com.jpg",
+    "w": 270,
+    "h": 270
   }
 }
