@@ -189,5 +189,13 @@
     "src": "icons/res/cbsnews.com.jpg",
     "w": 270,
     "h": 270
+  },
+  
+  "nbcnews.com": {
+    "canonical_url": "nbcnews.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/nbcnews.com.jpg",
+    "w": 500,
+    "h": 500
   }
 }
