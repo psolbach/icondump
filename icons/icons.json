@@ -2,7 +2,7 @@
   "nytimes.com": {
     "canonical_url": "nytimes.com",
     "content_type": "image/png",
-    "src": "/v1457622584/nyt-291_cje9qh.png",
+    "src": "icons/res/nytimes.com.png",
     "w": 291,
     "h": 291
   },
@@ -10,7 +10,7 @@
   "theverge.com": {
     "canonical_url": "theverge.com",
     "content_type": "image/jpeg",
-    "src": "/v1457626198/theverge-512_lo7wzv.jpg",
+    "src": "icons/res/theverge.com.jpg",
     "w": 512,
     "h": 512
   },
@@ -18,8 +18,152 @@
   "theguardian.com": {
     "canonical_url": "theguardian.com",
     "content_type": "image/png",
-    "src": "/v1457626485/guardian-512_qwtyel.png",
+    "src": "icons/res/theguardian.com.png",
     "w": 512,
     "h": 512
+  },
+
+  "bloomberg.com": {
+    "canonical_url": "bloomberg.com",
+    "content_type": "image/png",
+    "src": "icons/res/bloomberg.com.png",
+    "w": 512,
+    "h": 512
+  },
+
+  "washingtonpost.com": {
+    "canonical_url": "washingtonpost.com",
+    "content_type": "image/png",
+    "src": "icons/res/washingtonpost.com.png",
+    "w": 300,
+    "h": 300
+  },
+
+  "reddit.com": {
+    "canonical_url": "reddit.com",
+    "content_type": "image/png",
+    "src": "icons/res/reddit.com.png",
+    "w": 512,
+    "h": 512
+  },
+
+  "zeit.de": {
+    "canonical_url": "zeit.de",
+    "content_type": "image/png",
+    "src": "icons/res/zeit.de.png",
+    "w": 175,
+    "h": 175
+  },
+
+  "usatoday.com": {
+    "canonical_url": "usatoday.com",
+    "content_type": "image/gif",
+    "src": "icons/res/usatoday.com.gif",
+    "w": 574,
+    "h": 325
+  },
+
+  "slate.com": {
+    "canonical_url": "slate.com",
+    "content_type": "image/png",
+    "src": "icons/res/slate.com.png",
+    "w": 200,
+    "h": 200
+  },
+
+  "buzzfeed.com": {
+    "canonical_url": "buzzfeed.com",
+    "content_type": "image/png",
+    "src": "icons/res/buzzfeed.com.png",
+    "w": 461,
+    "h": 461
+  },
+
+  "arstechnica.com": {
+    "canonical_url": "arstechnica.com",
+    "content_type": "image/png",
+    "src": "icons/res/arstechnica.com.png",
+    "w": 500,
+    "h": 500
+  },
+
+  "mashable.com": {
+    "canonical_url": "mashable.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/mashable.com.jpg",
+    "w": 500,
+    "h": 500
+  },
+
+  "techcrunch.com": {
+    "canonical_url": "techcrunch.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/techcrunch.com.jpg",
+    "w": 400,
+    "h": 400
+  },
+
+  "theatlantic.com": {
+    "canonical_url": "theatlantic.com",
+    "content_type": "image/png",
+    "src": "icons/res/theatlantic.com.png",
+    "w": 600,
+    "h": 600
+  },
+
+  "upworthy.com": {
+    "canonical_url": "upworthy.com",
+    "content_type": "image/png",
+    "src": "icons/res/upworthy.com.png",
+    "w": 484,
+    "h": 484
+  },
+
+  "vice.com": {
+    "canonical_url": "vice.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/vice.com.jpg",
+    "w": 500,
+    "h": 500
+  },
+
+  "vox.com": {
+    "canonical_url": "vox.com",
+    "content_type": "image/png",
+    "src": "icons/res/vox.com.png",
+    "w": 1000,
+    "h": 1000
+  },
+
+  "faz.net": {
+    "canonical_url": "faz.net",
+    "content_type": "image/jpeg",
+    "src": "icons/res/faz.net.jpg",
+    "w": 1024,
+    "h": 1024
+  },
+
+  "spiegel.de": {
+    "canonical_url": "spiegel.de",
+    "content_type": "image/png",
+    "src": "icons/res/spiegel.de.png",
+    "w": 300,
+    "h": 300
+  },
+
+  "sueddeutsche.de": {
+    "canonical_url": "sueddeutsche.de",
+    "content_type": "image/png",
+    "src": "icons/res/sueddeutsche.de.png",
+    "w": 1024,
+    "h": 1024
+  },
+
+  "motherjones.com": {
+    "canonical_url": "motherjones.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/motherjones.com.jpg",
+    "w": 476,
+    "h": 476
   }
 }
