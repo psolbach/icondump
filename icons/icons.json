@@ -199,10 +199,10 @@
     "h": 500
   },
   
-  "times.com": {
-    "canonical_url": "times.com",
+  "time.com": {
+    "canonical_url": "time.com",
     "content_type": "image/png",
-    "src": "icons/res/times.com.png",
+    "src": "icons/res/time.com.png",
     "w": 500,
     "h": 500
   }
