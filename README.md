@@ -1,2 +1,2 @@
-## Icondump
+## Iconbin
 We can haz icons.
