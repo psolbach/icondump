@@ -173,5 +173,13 @@
     "src": "icons/res/businessinsider.com.jpg",
     "w": 400,
     "h": 400
+  },
+  
+  "npr.org.com": {
+    "canonical_url": "npr.org",
+    "content_type": "image/png",
+    "src": "icons/res/npr.org.jpg",
+    "w": 512,
+    "h": 512
   }
 }
