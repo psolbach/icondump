@@ -197,5 +197,13 @@
     "src": "icons/res/nbcnews.com.jpg",
     "w": 500,
     "h": 500
+  },
+  
+  "time.com": {
+    "canonical_url": "time.com",
+    "content_type": "image/png",
+    "src": "icons/res/time.com.png",
+    "w": 500,
+    "h": 500
   }
 }
