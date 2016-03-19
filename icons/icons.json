@@ -165,5 +165,13 @@
     "src": "icons/res/motherjones.com.jpg",
     "w": 476,
     "h": 476
+  },
+  
+  "businessinsider.com": {
+    "canonical_url": "businessinsider.com",
+    "content_type": "image/jpeg",
+    "src": "icons/res/businessinsider.com.jpg",
+    "w": 400,
+    "h": 400
   }
 }
