@@ -178,7 +178,7 @@
   "npr.org.com": {
     "canonical_url": "npr.org",
     "content_type": "image/png",
-    "src": "icons/res/npr.org.jpg",
+    "src": "icons/res/npr.org.png",
     "w": 512,
     "h": 512
   }
