@@ -215,12 +215,11 @@
     "h": 1024
   },
   
-  
   "fcbayern.de": {
     "canonical_url": "fcbayern.de",
     "content_type": "image/png",
     "src": "icons/res/fcbayern.de.png",
-    "w": 151,
-    "h": 151
+    "w": 512,
+    "h": 512
   }
 }
