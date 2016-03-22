@@ -213,5 +213,14 @@
     "src": "icons/res/thedailybeast.com.png",
     "w": 1024,
     "h": 1024
+  },
+  
+  
+  "fcbayern.de": {
+    "canonical_url": "fcbayern.de",
+    "content_type": "image/png",
+    "src": "icons/res/fcbayern.de.png",
+    "w": 151,
+    "h": 151
   }
 }
