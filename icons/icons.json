@@ -221,5 +221,13 @@
     "src": "icons/res/fcbayern.de-512.png",
     "w": 512,
     "h": 512
+  },
+  
+  "telegraph.co.uk": {
+    "canonical_url": "telegraph.co.uk",
+    "content_type": "image/png",
+    "src": "icons/res/telegraph.co.uk.png",
+    "w": 300,
+    "h": 300
   }
 }
