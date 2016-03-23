@@ -229,5 +229,13 @@
     "src": "icons/res/telegraph.co.uk.png",
     "w": 300,
     "h": 300
+  },
+  
+  "dpa.com": {
+    "canonical_url": "dpa.com",
+    "content_type": "image/png",
+    "src": "icons/res/dpa.com.png",
+    "w": 1024,
+    "h": 1024
   }
 }
