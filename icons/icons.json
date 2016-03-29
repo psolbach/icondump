@@ -237,5 +237,13 @@
     "src": "icons/res/dpa.com.png",
     "w": 1024,
     "h": 1024
+  },
+  
+  "theintercept.com": {
+    "canonical_url": "theintercept.com",
+    "content_type": "image/png",
+    "src": "icons/res/theintercept.com.png",
+    "w": 400,
+    "h": 400
   }
 }
