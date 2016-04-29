@@ -253,5 +253,13 @@
     "src": "icons/res/ap.org.png",
     "w": 512,
     "h": 512
+  },
+  
+  "bild.de": {
+    "canonical_url": "bild.de",
+    "content_type": "image/jpeg",
+    "src": "icons/res/bild.de.jpg",
+    "w": 421,
+    "h": 472
   }
 }
