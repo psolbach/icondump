@@ -1,5 +1,6 @@
-# Iconbin
-Community-driven API for icons.
+# iconbin
+Community-driven API for icons.  
+[iconbin.com](http://iconbin.com)
 
 ## What is it?
 Undocumented favicon services. In conjunction with Feeds and Readitlater. Can be used in functional prototypes or any other templating situation. This is made possible because <img> tags accept redirected sources, meaning that the target image is displayed in your HTML. 
