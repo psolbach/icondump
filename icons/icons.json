@@ -213,5 +213,37 @@
     "src": "icons/res/thedailybeast.com.png",
     "w": 1024,
     "h": 1024
+  },
+  
+  "fcbayern.de": {
+    "canonical_url": "fcbayern.de",
+    "content_type": "image/png",
+    "src": "icons/res/fcbayern.de-512.png",
+    "w": 512,
+    "h": 512
+  },
+  
+  "telegraph.co.uk": {
+    "canonical_url": "telegraph.co.uk",
+    "content_type": "image/png",
+    "src": "icons/res/telegraph.co.uk.png",
+    "w": 300,
+    "h": 300
+  },
+  
+  "dpa.com": {
+    "canonical_url": "dpa.com",
+    "content_type": "image/png",
+    "src": "icons/res/dpa.com.png",
+    "w": 1024,
+    "h": 1024
+  },
+  
+  "theintercept.com": {
+    "canonical_url": "theintercept.com",
+    "content_type": "image/png",
+    "src": "icons/res/theintercept.com.png",
+    "w": 400,
+    "h": 400
   }
 }
