@@ -9,7 +9,7 @@ Undocumented favicon services. In conjunction with Feeds and Readitlater. Can be
 Cached indefinitely. The caveat of course being that you might not receive updated icons. For this, you can have your sources point to /src, which will resolve to the latest version. At the moment, until I see bottlenecking, icon data is hosted on  Github with RawGit as the CDN, the url mapping is cached through a Node express app in-memory. Github file quotas should allow for the next 5k icons or so.
 
 ## Contributing
-Remember to sync your fork to the upstream iconbin repository.
+Remember to [sync your fork](https://help.github.com/articles/syncing-a-fork/) to the upstream iconbin repository.
 
 ## FAQ
 Q: Why mix different filetypes?
