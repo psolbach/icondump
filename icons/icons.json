@@ -245,5 +245,13 @@
     "src": "icons/res/theintercept.com.png",
     "w": 400,
     "h": 400
+  },
+  
+  "ap.org": {
+    "canonical_url": "ap.org",
+    "content_type": "image/png",
+    "src": "icons/res/ap.org.png",
+    "w": 512,
+    "h": 512
   }
 }
