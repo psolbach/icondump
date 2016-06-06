@@ -1,5 +1,5 @@
 # iconbin
-This is the data repository for [iconbin.com](http://iconbin.com), a directory of beautiful favicons and icons of all variety via API – driven by the community and made available through a CDN. This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
+This is the data repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons and icons of all variety – accessible via API, driven by the community and made available through a CDN. This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
 
 ## How it works
 Unlike the few favicon services out there, iconbin does not replicate the `favicon.ico`. Instead it relies entirely on manual labor to provide nice, large and up-to-date icons via this repository. Borne out of frustration with the development of feed-reading apps and the hazzle of looking up, caching small and unbecoming favicons, this can be used in functional prototypes or any other templating situation. Throw a domain name at the API and it will yield. This is possible because <img> tags accept redirected sources, meaning that the target image is displayed in your HTML.
