@@ -2,7 +2,7 @@
   "nytimes.com": {
     "canonical_url": "nytimes.com",
     "content_type": "image/png",
-    "src": "icons/res/nytimes.com.png",
+    "path": "icons/res/nytimes.com.png",
     "w": 291,
     "h": 291
   },
@@ -10,7 +10,7 @@
   "theverge.com": {
     "canonical_url": "theverge.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/theverge.com.jpg",
+    "path": "icons/res/theverge.com.jpg",
     "w": 512,
     "h": 512
   },
@@ -18,7 +18,7 @@
   "theguardian.com": {
     "canonical_url": "theguardian.com",
     "content_type": "image/png",
-    "src": "icons/res/theguardian.com.png",
+    "path": "icons/res/theguardian.com.png",
     "w": 512,
     "h": 512
   },
@@ -26,7 +26,7 @@
   "bloomberg.com": {
     "canonical_url": "bloomberg.com",
     "content_type": "image/png",
-    "src": "icons/res/bloomberg.com.png",
+    "path": "icons/res/bloomberg.com.png",
     "w": 512,
     "h": 512
   },
@@ -34,7 +34,7 @@
   "washingtonpost.com": {
     "canonical_url": "washingtonpost.com",
     "content_type": "image/png",
-    "src": "icons/res/washingtonpost.com.png",
+    "path": "icons/res/washingtonpost.com.png",
     "w": 300,
     "h": 300
   },
@@ -42,7 +42,7 @@
   "reddit.com": {
     "canonical_url": "reddit.com",
     "content_type": "image/png",
-    "src": "icons/res/reddit.com.png",
+    "path": "icons/res/reddit.com.png",
     "w": 512,
     "h": 512
   },
@@ -50,7 +50,7 @@
   "zeit.de": {
     "canonical_url": "zeit.de",
     "content_type": "image/png",
-    "src": "icons/res/zeit.de.png",
+    "path": "icons/res/zeit.de.png",
     "w": 175,
     "h": 175
   },
@@ -58,7 +58,7 @@
   "usatoday.com": {
     "canonical_url": "usatoday.com",
     "content_type": "image/gif",
-    "src": "icons/res/usatoday.com.gif",
+    "path": "icons/res/usatoday.com.gif",
     "w": 574,
     "h": 325
   },
@@ -66,7 +66,7 @@
   "slate.com": {
     "canonical_url": "slate.com",
     "content_type": "image/png",
-    "src": "icons/res/slate.com.png",
+    "path": "icons/res/slate.com.png",
     "w": 200,
     "h": 200
   },
@@ -74,7 +74,7 @@
   "buzzfeed.com": {
     "canonical_url": "buzzfeed.com",
     "content_type": "image/png",
-    "src": "icons/res/buzzfeed.com.png",
+    "path": "icons/res/buzzfeed.com.png",
     "w": 461,
     "h": 461
   },
@@ -82,7 +82,7 @@
   "arstechnica.com": {
     "canonical_url": "arstechnica.com",
     "content_type": "image/png",
-    "src": "icons/res/arstechnica.com.png",
+    "path": "icons/res/arstechnica.com.png",
     "w": 500,
     "h": 500
   },
@@ -90,7 +90,7 @@
   "mashable.com": {
     "canonical_url": "mashable.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/mashable.com.jpg",
+    "path": "icons/res/mashable.com.jpg",
     "w": 500,
     "h": 500
   },
@@ -98,7 +98,7 @@
   "techcrunch.com": {
     "canonical_url": "techcrunch.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/techcrunch.com.jpg",
+    "path": "icons/res/techcrunch.com.jpg",
     "w": 400,
     "h": 400
   },
@@ -106,7 +106,7 @@
   "theatlantic.com": {
     "canonical_url": "theatlantic.com",
     "content_type": "image/png",
-    "src": "icons/res/theatlantic.com.png",
+    "path": "icons/res/theatlantic.com.png",
     "w": 600,
     "h": 600
   },
@@ -114,7 +114,7 @@
   "upworthy.com": {
     "canonical_url": "upworthy.com",
     "content_type": "image/png",
-    "src": "icons/res/upworthy.com.png",
+    "path": "icons/res/upworthy.com.png",
     "w": 484,
     "h": 484
   },
@@ -122,7 +122,7 @@
   "vice.com": {
     "canonical_url": "vice.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/vice.com.jpg",
+    "path": "icons/res/vice.com.jpg",
     "w": 500,
     "h": 500
   },
@@ -130,7 +130,7 @@
   "vox.com": {
     "canonical_url": "vox.com",
     "content_type": "image/png",
-    "src": "icons/res/vox.com.png",
+    "path": "icons/res/vox.com.png",
     "w": 1000,
     "h": 1000
   },
@@ -138,7 +138,7 @@
   "faz.net": {
     "canonical_url": "faz.net",
     "content_type": "image/jpeg",
-    "src": "icons/res/faz.net.jpg",
+    "path": "icons/res/faz.net.jpg",
     "w": 1024,
     "h": 1024
   },
@@ -146,7 +146,7 @@
   "spiegel.de": {
     "canonical_url": "spiegel.de",
     "content_type": "image/png",
-    "src": "icons/res/spiegel.de.png",
+    "path": "icons/res/spiegel.de.png",
     "w": 300,
     "h": 300
   },
@@ -154,7 +154,7 @@
   "sueddeutsche.de": {
     "canonical_url": "sueddeutsche.de",
     "content_type": "image/png",
-    "src": "icons/res/sueddeutsche.de.png",
+    "path": "icons/res/sueddeutsche.de.png",
     "w": 1024,
     "h": 1024
   },
@@ -162,7 +162,7 @@
   "motherjones.com": {
     "canonical_url": "motherjones.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/motherjones.com.jpg",
+    "path": "icons/res/motherjones.com.jpg",
     "w": 476,
     "h": 476
   },
@@ -170,7 +170,7 @@
   "businessinsider.com": {
     "canonical_url": "businessinsider.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/businessinsider.com.jpg",
+    "path": "icons/res/businessinsider.com.jpg",
     "w": 400,
     "h": 400
   },
@@ -178,7 +178,7 @@
   "npr.org": {
     "canonical_url": "npr.org",
     "content_type": "image/png",
-    "src": "icons/res/npr.org.png",
+    "path": "icons/res/npr.org.png",
     "w": 512,
     "h": 512
   },
@@ -186,7 +186,7 @@
   "cbsnews.com": {
     "canonical_url": "cbsnews.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/cbsnews.com.jpg",
+    "path": "icons/res/cbsnews.com.jpg",
     "w": 270,
     "h": 270
   },
@@ -194,7 +194,7 @@
   "nbcnews.com": {
     "canonical_url": "nbcnews.com",
     "content_type": "image/jpeg",
-    "src": "icons/res/nbcnews.com.jpg",
+    "path": "icons/res/nbcnews.com.jpg",
     "w": 500,
     "h": 500
   },
@@ -202,7 +202,7 @@
   "time.com": {
     "canonical_url": "time.com",
     "content_type": "image/png",
-    "src": "icons/res/time.com.png",
+    "path": "icons/res/time.com.png",
     "w": 500,
     "h": 500
   },
@@ -210,7 +210,7 @@
   "thedailybeast.com": {
     "canonical_url": "thedailybeast.com",
     "content_type": "image/png",
-    "src": "icons/res/thedailybeast.com.png",
+    "path": "icons/res/thedailybeast.com.png",
     "w": 1024,
     "h": 1024
   },
@@ -218,7 +218,7 @@
   "fcbayern.de": {
     "canonical_url": "fcbayern.de",
     "content_type": "image/png",
-    "src": "icons/res/fcbayern.de-512.png",
+    "path": "icons/res/fcbayern.de-512.png",
     "w": 512,
     "h": 512
   },
@@ -226,7 +226,7 @@
   "telegraph.co.uk": {
     "canonical_url": "telegraph.co.uk",
     "content_type": "image/png",
-    "src": "icons/res/telegraph.co.uk.png",
+    "path": "icons/res/telegraph.co.uk.png",
     "w": 300,
     "h": 300
   },
@@ -234,7 +234,7 @@
   "dpa.com": {
     "canonical_url": "dpa.com",
     "content_type": "image/png",
-    "src": "icons/res/dpa.com.png",
+    "path": "icons/res/dpa.com.png",
     "w": 1024,
     "h": 1024
   },
@@ -242,7 +242,7 @@
   "theintercept.com": {
     "canonical_url": "theintercept.com",
     "content_type": "image/png",
-    "src": "icons/res/theintercept.com.png",
+    "path": "icons/res/theintercept.com.png",
     "w": 400,
     "h": 400
   },
@@ -250,7 +250,7 @@
   "ap.org": {
     "canonical_url": "ap.org",
     "content_type": "image/png",
-    "src": "icons/res/ap.org.png",
+    "path": "icons/res/ap.org.png",
     "w": 512,
     "h": 512
   },
@@ -258,7 +258,7 @@
   "bild.de": {
     "canonical_url": "bild.de",
     "content_type": "image/jpeg",
-    "src": "icons/res/bild.de.jpg",
+    "path": "icons/res/bild.de.jpg",
     "w": 421,
     "h": 472
   }
