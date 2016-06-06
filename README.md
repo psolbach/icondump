@@ -16,3 +16,6 @@ the different file types have their strengths. JPG may be more suited to detaile
 
 ## License
 All icon resources in this repository are the property of their respective copyright holders. This is a (1) not-for-profit community driven offering with the sole aim of providing developers with a fast, easy way of displaying brand information in the best way possible and thus having a (2) positive effect on the recognition and potential market of these brands. In summary, this application of copyrighted material should be generally covered by Fair Use or comparable licence doctrines. Iconbin is not intended to be used in commercial environments. Should you find your corporate identity in any way misrepresented, please get in touch ASAP at a@iconbin.com or better still, do a Pull Request with the correct icon data and send us a corresponding license note to be displayed in context of this repository and iconbin.com. The metadata itself is licensed under MIT License (MIT).
+
+[(1)](https://ucomm.wsu.edu/fair-use/#toc-purpose-and-character-of-the-use)
+[(2)](https://ucomm.wsu.edu/fair-use/#toc-commercial-effect)
