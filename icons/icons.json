@@ -261,5 +261,21 @@
     "path": "icons/res/bild.de.jpg",
     "w": 421,
     "h": 472
+  },
+
+  "google.com": {
+    "canonical_url": "google.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/google.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "twitter.com": {
+    "canonical_url": "twitter.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/twitter.com.svg",
+    "w": 180,
+    "h": 150
   }
 }
