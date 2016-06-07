@@ -14,7 +14,7 @@
     "w": 512,
     "h": 512
   },
-  
+
   "theguardian.com": {
     "canonical_url": "theguardian.com",
     "content_type": "image/png",
@@ -166,7 +166,7 @@
     "w": 476,
     "h": 476
   },
-  
+
   "businessinsider.com": {
     "canonical_url": "businessinsider.com",
     "content_type": "image/jpeg",
@@ -174,7 +174,7 @@
     "w": 400,
     "h": 400
   },
-  
+
   "npr.org": {
     "canonical_url": "npr.org",
     "content_type": "image/png",
@@ -182,7 +182,7 @@
     "w": 512,
     "h": 512
   },
-  
+
   "cbsnews.com": {
     "canonical_url": "cbsnews.com",
     "content_type": "image/jpeg",
@@ -190,7 +190,7 @@
     "w": 270,
     "h": 270
   },
-  
+
   "nbcnews.com": {
     "canonical_url": "nbcnews.com",
     "content_type": "image/jpeg",
@@ -198,7 +198,7 @@
     "w": 500,
     "h": 500
   },
-  
+
   "time.com": {
     "canonical_url": "time.com",
     "content_type": "image/png",
@@ -206,7 +206,7 @@
     "w": 500,
     "h": 500
   },
-  
+
   "thedailybeast.com": {
     "canonical_url": "thedailybeast.com",
     "content_type": "image/png",
@@ -214,7 +214,7 @@
     "w": 1024,
     "h": 1024
   },
-  
+
   "fcbayern.de": {
     "canonical_url": "fcbayern.de",
     "content_type": "image/png",
@@ -222,7 +222,7 @@
     "w": 512,
     "h": 512
   },
-  
+
   "telegraph.co.uk": {
     "canonical_url": "telegraph.co.uk",
     "content_type": "image/png",
@@ -230,7 +230,7 @@
     "w": 300,
     "h": 300
   },
-  
+
   "dpa.com": {
     "canonical_url": "dpa.com",
     "content_type": "image/png",
@@ -238,7 +238,7 @@
     "w": 1024,
     "h": 1024
   },
-  
+
   "theintercept.com": {
     "canonical_url": "theintercept.com",
     "content_type": "image/png",
@@ -246,7 +246,7 @@
     "w": 400,
     "h": 400
   },
-  
+
   "ap.org": {
     "canonical_url": "ap.org",
     "content_type": "image/png",
@@ -254,7 +254,7 @@
     "w": 512,
     "h": 512
   },
-  
+
   "bild.de": {
     "canonical_url": "bild.de",
     "content_type": "image/jpeg",
@@ -277,5 +277,45 @@
     "path": "icons/res/twitter.com.svg",
     "w": 180,
     "h": 150
+  },
+
+  "youtube.com": {
+    "canonical_url": "youtube.com",
+    "content_type": "image/png",
+    "path": "icons/res/youtube.com.png",
+    "w": 500,
+    "h": 500
+  },
+
+  "facebook.com": {
+    "canonical_url": "facebook.com",
+    "content_type": "image/png",
+    "path": "icons/res/facebook.com.png",
+    "w": 500,
+    "h": 500
+  },
+
+  "messenger.com": {
+    "canonical_url": "messenger.com",
+    "content_type": "image/png",
+    "path": "icons/res/messenger.com.png",
+    "w": 500,
+    "h": 500
+},
+
+  "instagram.com": {
+    "canonical_url": "instagram.com",
+    "content_type": "image/png",
+    "path": "icons/res/instagram.com.png",
+    "w": 500,
+    "h": 500
+},
+
+  "gaming.youtube.com": {
+    "canonical_url": "gaming.youtube.com",
+    "content_type": "image/png",
+    "path": "icons/res/gaming.youtube.com.png",
+    "w": 500,
+    "h": 500
   }
 }

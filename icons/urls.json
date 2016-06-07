@@ -38,7 +38,7 @@
   "spiegel.de": "spiegel.de",
   "spon.de": "spiegel.de",
   "arstechnica.com": "arstechnica.com",
-  "techcrunch.com": "techcrunch.com", 
+  "techcrunch.com": "techcrunch.com",
   "arst.ch": "arstechnica.com",
   "mashable.com": "mashable.com",
   "on.mash.to": "mashable.com",
@@ -64,5 +64,10 @@
   "telegraph.co.uk": "telegraph.co.uk",
   "dpa.com": "dpa.com",
   "dpa.de": "dpa.com",
-  "theintercept.com": "theintercept.com"
+  "theintercept.com": "theintercept.com",
+  "youtube.com": "youtube.com",
+  "facebook.com": "facebook.com",
+  "gaming.youtube.com": "gaming.youtube.com",
+  "messenger.com": "messenger.com",
+  "instagram.com": "instagram.com"
 }
