@@ -301,7 +301,7 @@
     "path": "icons/res/messenger.com.png",
     "w": 500,
     "h": 500
-},
+  },
 
   "instagram.com": {
     "canonical_url": "instagram.com",
@@ -309,7 +309,7 @@
     "path": "icons/res/instagram.com.png",
     "w": 500,
     "h": 500
-},
+  },
 
   "gaming.youtube.com": {
     "canonical_url": "gaming.youtube.com",
@@ -317,5 +317,13 @@
     "path": "icons/res/gaming.youtube.com.png",
     "w": 500,
     "h": 500
+  },
+
+  "apple.com": {
+    "canonical_url": "apple.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/apple.com.svg",
+    "w": 170,
+    "h": 170
   }
 }
