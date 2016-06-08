@@ -319,7 +319,6 @@
     "h": 500
   },
 
-<<<<<<< HEAD
   "vk.com": {
     "canonical_url": "vk.com",
     "content_type": "image/png",
@@ -426,12 +425,12 @@
 
   "stackoverflow.com": {
     "canonical_url": "stackoverflow.com",
-    "content_type": "image/jpeg",
-    "path": "icons/res/stackoverflow.com.jpg",
-    "w": 512,
-    "h": 512
+    "content_type": "image/png",
+    "path": "icons/res/stackoverflow.com.png",
+    "w": 158,
+    "h": 158
   },
-=======
+
   "apple.com": {
     "canonical_url": "apple.com",
     "content_type": "image/svg+xml",
@@ -439,5 +438,4 @@
     "w": 180,
     "h": 180
   }
->>>>>>> fork/master
 }
