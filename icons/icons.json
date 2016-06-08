@@ -322,7 +322,7 @@
   "apple.com": {
     "canonical_url": "apple.com",
     "content_type": "image/svg+xml",
-    "path": "icons/res/apple.com.svg",
+    "path": "icons/res/apple.com-170.svg",
     "w": 170,
     "h": 170
   }
