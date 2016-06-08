@@ -374,4 +374,12 @@
     "w": 512,
     "h": 512
   },
+
+  "wikipedia.org": {
+    "canonical_url": "wikipedia.org",
+    "content_type": "image/jpeg",
+    "path": "icons/res/wikipedia.org.jpg",
+    "w": 512,
+    "h": 512
+  },
 }
