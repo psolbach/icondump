@@ -366,4 +366,12 @@
     "w": 512,
     "h": 512
   },
+
+  "baidu.com": {
+    "canonical_url": "baidu.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/baidu.com.jpg",
+    "w": 512,
+    "h": 512
+  },
 }
