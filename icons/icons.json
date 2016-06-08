@@ -319,6 +319,7 @@
     "h": 500
   },
 
+<<<<<<< HEAD
   "vk.com": {
     "canonical_url": "vk.com",
     "content_type": "image/png",
@@ -430,4 +431,13 @@
     "w": 512,
     "h": 512
   },
+=======
+  "apple.com": {
+    "canonical_url": "apple.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/apple.com-180.svg",
+    "w": 180,
+    "h": 180
+  }
+>>>>>>> fork/master
 }
