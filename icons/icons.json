@@ -358,4 +358,12 @@
     "w": 512,
     "h": 512
   },
+
+  "qq.com": {
+    "canonical_url": "qq.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/qq.com.jpg",
+    "w": 512,
+    "h": 512
+  },
 }
