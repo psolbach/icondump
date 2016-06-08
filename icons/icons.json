@@ -334,4 +334,12 @@
     "w": 512,
     "h": 512
   },
+
+  "nationalpost.com": {
+    "canonical_url": "nationalpost.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/nationalpost.com.jpg",
+    "w": 512,
+    "h": 512
+  },
 }
