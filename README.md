@@ -13,7 +13,13 @@ Unlike the few favicon services out there, iconbin does not replicate the `favic
 Icons are cached infinitely through [MaxCDN](https://www.maxcdn.com/). The caveat of course being that you might not receive updated icons if you use the CDN url. Instead, you can point your sources to `iconbin.com/api/foo.com/src`, which will resolve to the latest version. At the moment, until I see bottlenecking, icon data is hosted on Github through [RawGit](https://rawgit.com/), the url mapping is cached through a Node express app in-memory. Github file quotas should allow for the next 5k icons or so.
 
 ## Contributing
-To add an icon, simply place it in `/res` and add its metadata to `icons.json`. Icons should be square, measure at least 300 pixels and have a filename in the format `foo.com.png` or `xyz.foo.com.jpg`, where foo should be the canonical domain name. Then you reference this canonical icon name in urls.json and map  any additional short domains or commonly used CNAME domains to the canonical one, e.g. nyt.com maps to nytimes.com. We disregard www as its just a subdomain. Before doing the PR you should remember to [sync your fork](https://help.github.com/articles/syncing-a-fork/) with any changes made upstream. To avoid any collisions, PRs will be processed in the order of their filing.
+To add an icon, please follow these steps:  
+  
+1. Place the image file in `/res` and add its metadata to `icons.json`.  
+2. Icons should be square, measure at least 300 pixels, use a reasonable filetype
+3. Have a filename in the format `foo.com.png` or `xyz.foo.com.jpg`, where foo should be the canonical domain name.
+4. Then you reference this canonical icon name in urls.json and map any additional short domains or commonly used CNAME domains to the canonical one, e.g. nyt.com maps to nytimes.com. We disregard www as its just a subdomain.  
+5. Before doing the PR you should remember to [sync your fork](https://help.github.com/articles/syncing-a-fork/) with any changes made upstream. To avoid any collisions, PRs will be processed in the order of their filing.  
 
 ## FAQ
 Q: Why mix different filetypes?
