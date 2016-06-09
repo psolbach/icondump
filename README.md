@@ -1,3 +1,5 @@
+![Minion](https://iconbin.com/static/img/iconbin_darkbin_256.svg)
+
 # iconbin
 - [x] Google larger site-icons for the gazillion-th time
 - [x] Build a favicon API instead because the standard is outdated
