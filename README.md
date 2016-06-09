@@ -1,5 +1,6 @@
 
 # iconbin
+**rethinking favicons**
 - [x] Google larger site-icons for the gazillion-th time
 - [x] Build a favicon API instead because the standard is outdated
 - [x] Start gathering icon resources, use the API as a shim
