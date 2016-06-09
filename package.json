@@ -10,15 +10,17 @@
   "author": "Paul Solbach <p@psolbach.com>",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.0",
     "debug": "^2.2.0",
     "dirty": "^1.0.0",
-    "express": "^4.13.4",
-    "github-webhook-middleware": "0.0.2",
     "memoizee": "^0.3.9",
-    "nunjucks": "^2.4.1",
     "request": "^2.69.0",
     "require-reload": "^0.2.2",
     "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "express": "^4.13.4",
+    "nunjucks": "^2.4.1",
+    "body-parser": "^1.15.0",
+    "github-webhook-middleware": "0.0.2",
   }
 }
