@@ -21,7 +21,7 @@ To add an icon, please follow these steps:
 1. Place the image file in `/res` and add its metadata to `icons.json`.  
 2. Icons should be square, measure at least 300 pixels, use a reasonable filetype
 3. Have a filename in the format `foo.com.png` or `xyz.foo.com.jpg`, where foo should be the canonical domain name.
-4. Then you reference this canonical icon name in urls.json and map any additional short domains or commonly used CNAME domains to the canonical one, e.g. nyt.com maps to nytimes.com. We disregard www as its just a subdomain.  
+4. Then you reference this canonical icon name in `urls.json` and map any additional short domains or commonly used CNAME domains to the canonical one, e.g. nyt.com maps to nytimes.com. We disregard www as its just a subdomain.  
 5. Before doing the PR you should remember to [sync your fork](https://help.github.com/articles/syncing-a-fork/) with any changes made upstream. To avoid any collisions, PRs will be processed in the order of their filing.  
 
 ## FAQ
