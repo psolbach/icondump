@@ -1,4 +1,3 @@
-![Minion](https://iconbin.com/static/img/iconbin_darkbin_256.svg)
 
 # iconbin
 - [x] Google larger site-icons for the gazillion-th time
@@ -6,6 +5,7 @@
 - [x] Start gathering icon resources, use the API as a shim
 - [ ] Refresh the favicon spec, request for comments
 - [ ] Fingers crossed
+
   
 This is the data repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons of all variety – accessible via API, driven by the community and made available through a CDN. Iconbin functions as a "shim" or "polyfill" because the favicon standard won't change over night. The goal is to propose a new [favicon specification](https://www.w3.org/2005/10/howto-favicon). This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
 
@@ -33,3 +33,5 @@ All icon resources in this repository are the property of their respective copyr
 
 [(1)](https://ucomm.wsu.edu/fair-use/#toc-purpose-and-character-of-the-use)
 [(2)](https://ucomm.wsu.edu/fair-use/#toc-commercial-effect)
+
+![Minion](https://iconbin.com/static/img/iconbin_darkbin_256.svg)
