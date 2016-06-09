@@ -22,8 +22,8 @@ To add an icon, please follow these steps:
 5. Before doing the PR you should remember to [sync your fork](https://help.github.com/articles/syncing-a-fork/) with any changes made upstream. To avoid any collisions, PRs will be processed in the order of their filing.  
 
 ## FAQ
-Q: Why mix different filetypes?
-A: As much as we all love SVG and would like for it to be the default, most icons out there are bitmaps. And to be fair,
+**Q**: Why mix different filetypes?  
+**A**: As much as we all love SVG and would like for it to be the default, most icons out there are bitmaps. And to be fair,
 the different file types have their strengths. JPG may be more suited to detailed works while PNG has an alpha channel. A future scenario might be dynamic file types – e.g. WebP over JPEG based on the clients Accept-Content headers.
 
 ## License
