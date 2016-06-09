@@ -3,6 +3,7 @@
 - [x] Build a favicon API instead because the standard is outdated
 - [x] Start gathering icon resources, use the API as a shim
 - [ ] Refresh the favicon spec, request for comments
+- [ ] Fingers crossed
   
 This is the data repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons of all variety – accessible via API, driven by the community and made available through a CDN. Iconbin functions as a "shim" or "polyfill" because the favicon standard won't change over night. The goal is to propose a new favicon specification. This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
 
