@@ -21,6 +21,6 @@
     "express": "^4.13.4",
     "nunjucks": "^2.4.1",
     "body-parser": "^1.15.0",
-    "github-webhook-middleware": "0.0.2",
+    "github-webhook-middleware": "0.0.2"
   }
 }
