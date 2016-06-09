@@ -319,6 +319,118 @@
     "h": 500
   },
 
+  "vk.com": {
+    "canonical_url": "vk.com",
+    "content_type": "image/png",
+    "path": "icons/res/vk.com.png",
+    "w": 512,
+    "h": 512
+  },
+
+  "cbc.ca": {
+    "canonical_url": "cbc.ca",
+    "content_type": "image/jpeg",
+    "path": "icons/res/cbc.ca.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "nationalpost.com": {
+    "canonical_url": "nationalpost.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/nationalpost.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "thestar.com": {
+    "canonical_url": "thestar.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/thestar.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "ctvnews.ca": {
+    "canonical_url": "ctvnews.ca",
+    "content_type": "image/jpeg",
+    "path": "icons/res/ctvnews.ca.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "qq.com": {
+    "canonical_url": "qq.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/qq.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "baidu.com": {
+    "canonical_url": "baidu.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/baidu.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "wikipedia.org": {
+    "canonical_url": "wikipedia.org",
+    "content_type": "image/jpeg",
+    "path": "icons/res/wikipedia.org.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "taobao.com": {
+    "canonical_url": "taobao.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/taobao.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "weibo.com": {
+    "canonical_url": "weibo.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/weibo.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "pinterest.com": {
+    "canonical_url": "pinterest.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/pinterest.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "paypal.com": {
+    "canonical_url": "paypal.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/paypal.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "tumblr.com": {
+    "canonical_url": "tumblr.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/tumblr.com.jpg",
+    "w": 512,
+    "h": 512
+  },
+
+  "stackoverflow.com": {
+    "canonical_url": "stackoverflow.com",
+    "content_type": "image/png",
+    "path": "icons/res/stackoverflow.com.png",
+    "w": 158,
+    "h": 158
+  },
+
   "apple.com": {
     "canonical_url": "apple.com",
     "content_type": "image/svg+xml",
