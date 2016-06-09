@@ -3,7 +3,7 @@
 
 /*
   Handles all API calls
-  in either /url/<url> or /url/<url>/src form.
+  in either /api/<url> or /api/<url>/src form.
 */
 
 var util = require('util')
