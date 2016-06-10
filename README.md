@@ -3,7 +3,7 @@
 
 - [x] Google larger site-icons for the gazillion-th time
 - [x] Build a favicon API instead because the standard is outdated
-- [x] Open the API to anyone as a favicon drop-in
+- [x] Open the API to anyone as a favicon drop-in and design resource
 - [ ] Will it blend?
 
   
