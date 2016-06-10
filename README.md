@@ -25,7 +25,7 @@ To add an icon, please follow these steps:
 
 ## FAQ
 **Q**: This will not scale! It's a bottleneck!  
-**A**: You're right. Favicons need to live at their domains. But if this ever hits technical limits then the case for better favicons is made! At the moment, until I see bottlenecking, icon data is hosted on Github through [RawGit](https://rawgit.com/), the url mapping is cached through a Node express app in-memory. Github file quotas should allow for the next 5k icons or so.  
+**A**: You're right. Favicons need to live at their domains. But if this ever hits technical limits then the case for better favicons is made! At the moment, until we see bottlenecking, icon data is hosted on Github through [RawGit](https://rawgit.com/), the url mapping is cached through a Node express app in-memory. Github file quotas should allow for the next 5k icons or so.  
 
 **Q**: Why mix different filetypes?  
 **A**: As much as we all love SVG and would like for it to be the default, most icons out there are bitmaps. And to be fair, the different file types have their strengths. JPG may be more suited to detailed works while PNG has an alpha channel. A future scenario might be dynamic file types – e.g. WebP over JPEG based on the clients Accept-Content headers.  
