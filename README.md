@@ -7,7 +7,7 @@
 - [ ] Will it blend?
 
   
-This is the data repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons of all variety – accessible via API, driven by the community and made available through a CDN. Iconbin functions as a "shim" or "polyfill" because the favicon standard won't change over night. The goal is to propose a new [favicon specification](https://www.w3.org/2005/10/howto-favicon). This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
+This is the data repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons of all variety – accessible as image sources or via API, driven by the community and made available through a CDN. Iconbin functions as a "shim" or "polyfill" because the favicon standard won't change over night. The goal is to propose a new [favicon specification](https://www.w3.org/2005/10/howto-favicon). This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
 
 ## How it works
 Unlike the few favicon services out there, iconbin does not replicate the `favicon.ico`. Instead it relies entirely on manual labor to provide nice, large and up-to-date icons via this repository. Borne out of frustration with the development of feed-reading apps and the hazzle of looking up, caching small and unbecoming favicons, this can be used in functional prototypes or any other templating situation. Throw a domain name at the API and it will yield. This is possible because arbitrary redirects are resolved to display `<img>` sources in most browsers.
