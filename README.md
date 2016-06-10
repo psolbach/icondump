@@ -10,7 +10,8 @@
 This is the repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons of all variety – accessible as image URLs or via API, driven by the community and made available through a CDN. Iconbin functions as a "shim" or "polyfill" because the favicon standard won't change over night. The goal is to drive adoption of the HTML5 [favicon specification](https://www.w3.org/TR/html5/links.html#rel-icon). This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
 
 ## How it works
-Example Call: [(https://iconbin.com/api/google.com](https://iconbin.com/api/google.com)  
+Example: [https://iconbin.com/api/google.com](https://iconbin.com/api/google.com)  
+  
 Unlike the few favicon services out there, iconbin does not replicate the `favicon.ico`. Instead it relies entirely on manual labor to provide nice, large and up-to-date icons via this repository. Borne out of frustration with looking up large site-icons to display news sources, this can be used in functional prototypes or any other templating situation. Throw a domain name at the API and it will yield. This is possible because arbitrary redirects are resolved to display `<img>` as well as `<link rel="icon">`sources in most browsers.
 
 Icons are cached infinitely through [MaxCDN](https://www.maxcdn.com/). The caveat being that you might not receive updated icons if you use the CDN directly. Instead, you point your sources to `iconbin.com/api/foo.com/src`, which will redirect to the latest version. At the moment, until I see bottlenecking, icon data is hosted on Github through [RawGit](https://rawgit.com/), the url mapping is cached through a Node express app in-memory. Github file quotas should allow for the next 5k icons or so.
