@@ -1,0 +1,51 @@
+body {
+  font: 19px/24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fafafa;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333;
+  max-width: 720px;
+  margin: 0px auto;
+}
+
+h2 {
+  font-size: 1.3em;
+  line-height: 1.1em;
+  margin-bottom: .8em;
+  margin-top: .1em;
+  max-width: 390px;
+}
+
+.container {
+  margin: 60px 15px;
+}
+
+.item {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.item__icon {
+  width: 80px;
+  height: 80px;
+  display: block;
+  border-radius: 50%;
+  position: relative;
+  margin: 5px 30px 0px 5px;
+}
+
+.content__author {
+  font-size: .85em;
+  font-style: italic;
+  font-family: "Georgia", Times New Roman, serif;
+  font-style: italic;
+  color: #d34b4b;
+}
+
+.content__source {
+  font-size: .8em;
+  color: #888;
+}
