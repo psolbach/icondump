@@ -39,7 +39,7 @@ var cachedIconMeta = memoize(getIconMeta, {
 
 
 module.exports = function(req, res) {
-  var path = req.params._url;
+  var path = req.params._url.toLowerCase();
   var isRedirect = req.path.split("/")[3] == "src";
 
   // Validate requests URL
@@ -48,10 +48,8 @@ module.exports = function(req, res) {
   }
 
   // Sanitize URL
-  if (path.indexOf("www") > -1) {
-    var path = path.split("www.");
-    if (path.length) path.shift();
-  }
+  var protosubmatch = /^((https?|ftp):\/\/)?(www\.)?/;
+  path = path.replace(protosubmatch, '');
 
   // Get cached icon results
   var iconMeta = cachedIconMeta(path);
