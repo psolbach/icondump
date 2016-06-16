@@ -437,5 +437,132 @@
     "path": "icons/res/apple.com-180.svg",
     "w": 180,
     "h": 180
+  },
+
+  "huffingtonpost.com": {
+    "canonical_url": "huffingtonpost.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/huffingtonpost.com.jpg",
+    "w": 500,
+    "h": 500
+  },
+
+  "newrepublic.com": {
+    "canonical_url": "newrepublic.com",
+    "content_type": "image/jpeg",
+    "path": "icons/res/newrepublic.com.jpg",
+    "w": 447,
+    "h": 447
+  },
+
+  "yahoo.com": {
+    "canonical_url": "yahoo.com",
+    "content_type": "image/png",
+    "path": "icons/res/yahoo.com.png",
+    "w": 861,
+    "h": 200
+  },
+
+  "500px.com": {
+    "canonical_url": "500px.com",
+    "content_type": "image/png",
+    "path": "icons/res/500px.com.png",
+    "w": 512,
+    "h": 512
+  },
+
+  "airbnb.com": {
+    "canonical_url": "airbnb.com",
+    "content_type": "image/png",
+    "path": "icons/res/airbnb.com.png",
+    "w": 512,
+    "h": 512
+  },
+
+  "ebay.com": {
+    "canonical_url": "ebay.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/ebay.com.svg",
+    "w": 374,
+    "h": 374
+  },
+  "github.com": {
+    "canonical_url": "github.com",
+    "content_type": "image/png",
+    "path": "icons/res/github.com.png",
+    "w": 560,
+    "h": 560
+  },
+
+  "gmail.com": {
+    "canonical_url": "gmail.com",
+    "content_type": "image/png",
+    "path": "icons/res/gmail.com.png",
+    "w": 128,
+    "h": 128
+  },
+
+  "kickstarter.com": {
+    "canonical_url": "kickstarter.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/kickstarter.com.svg",
+    "w": 168,
+    "h": 168
+  },
+
+  "medium.com": {
+    "canonical_url": "medium.com",
+    "content_type": "image/png",
+    "path": "icons/res/medium.com.png",
+    "w": 855,
+    "h": 855
+  },
+
+  "microsoft.com": {
+    "canonical_url": "microsoft.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/microsoft.com.svg",
+    "w": 316,
+    "h": 316
+  },
+
+  "producthunt.com": {
+    "canonical_url": "producthunt.com",
+    "content_type": "image/png",
+    "path": "icons/res/producthunt.com.png",
+    "w": 512,
+    "h": 512
+  },
+
+  "snapchat.com": {
+    "canonical_url": "snapchat.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/snapchat.com.svg",
+    "w": 432,
+    "h": 432
+  },
+
+  "spotify.com": {
+    "canonical_url": "spotify.com",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/spotify.com.svg",
+    "w": 168,
+    "h": 168
+  },
+
+  "telegram.org": {
+    "canonical_url": "telegram.org",
+    "content_type": "image/svg+xml",
+    "path": "icons/res/telegram.org.svg",
+    "w": 240,
+    "h": 240
+  },
+
+  "tnw.com": {
+    "canonical_url": "tnw.com",
+    "content_type": "image/png",
+    "path": "icons/res/tnw.com.png",
+    "w": 300,
+    "h": 300
   }
 }
