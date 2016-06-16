@@ -43,7 +43,7 @@ module.exports = function(req, res) {
   var isRedirect = req.path.split("/")[3] == "src";
 
   // Validate requests URL
-  if (!validUrl.isUri("http://" + path)) {
+  if (!validUrl.isUri("http://" + path) && !validUrl.isUri(path)) {
     res.status(404).send("not a valid URL.");
   }
 
