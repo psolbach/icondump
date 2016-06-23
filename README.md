@@ -4,7 +4,6 @@
 - [x] Google larger site-icons for the gazillion-th time
 - [x] Build a favicon API instead because the standard is outdated
 - [x] Open the API to anyone as a favicon drop-in and design resource
-- [ ] Will it blend?
 
   
 This is the repository for [iconbin.com](http://iconbin.com), mapping domain names to beautiful favicons of all variety – accessible as image URLs or via API, driven by the community and made available through a CDN. Iconbin functions as a "shim" or "polyfill" because the favicon standard won't change over night. The goal is to drive adoption of the HTML5 [favicon specification](https://www.w3.org/TR/html5/links.html#rel-icon). This very much hinges on contributions, so please go ahead. Read more about it [here](https://psolbach.com/write/icons-by-api-iconbin-image-assets-brands-logos-5).
