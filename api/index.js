@@ -42,9 +42,13 @@ module.exports = function(req, res) {
   var path = req.params._url.toLowerCase();
   var isRedirect = req.path.split("/")[3] == "src";
 
+  // Add CORS headers
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
   // Validate requests URL
   if (!validUrl.isUri("http://" + path) && !validUrl.isUri(path)) {
-    res.status(404).send("not a valid URL.");
+    res.status(404).jsonp({err: "Not a valid URL."});
   }
 
   // Sanitize URL
@@ -59,10 +63,6 @@ module.exports = function(req, res) {
       ? res.redirect(iconMeta.cdn) // icon in db!
       : res.redirect(config.fallback_icon) // fallback!
   }
-
-  // Add CORS headers
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
 
   // Valid Call
   if (iconMeta) {
