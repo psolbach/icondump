@@ -423,6 +423,14 @@
     "h": 512
   },
 
+  "scholica.com": {
+    "canonical_url": "scholica.com",
+    "content_type": "image/png",
+    "path": "icons/res/scholica.com.png",
+    "w": 626,
+    "h": 512
+  },
+
   "stackoverflow.com": {
     "canonical_url": "stackoverflow.com",
     "content_type": "image/png",
