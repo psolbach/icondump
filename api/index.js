@@ -60,9 +60,13 @@ module.exports = function(req, res) {
       : res.redirect(config.fallback_icon) // fallback!
   }
 
+  // Add CORS headers
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
   // Valid Call
   if (iconMeta) {
-    return res.json({
+    return res.jsonp({
       w: iconMeta.w,
       h: iconMeta.h,
       content_type: iconMeta.content_type,
@@ -77,5 +81,5 @@ module.exports = function(req, res) {
     + "But you can add it at github.com/psolbach/iconbin!", path)
   };
 
-  res.status(404).json(msg);
+  res.status(404).jsonp(msg);
 }
