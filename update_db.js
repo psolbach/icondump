@@ -1,6 +1,12 @@
 #!/usr/bin/env node
 'use strict';
 
+/*
+  This checks every icon file in icons/res against
+  the metadata and prints out all necessary JSON
+  if new icons are found.
+*/
+
 var mime = require('mime')
   , sizeOf = require('image-size')
   , filewalker = require('filewalker')
